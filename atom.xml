@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qingxi5.github.io/"/>
-  <updated>2021-05-19T06:06:34.238Z</updated>
+  <updated>2021-05-19T12:57:18.015Z</updated>
   <id>https://qingxi5.github.io/</id>
   
   <author>
@@ -17,11 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>工作流</title>
+    <link href="https://qingxi5.github.io/posts/e3e00518.html"/>
+    <id>https://qingxi5.github.io/posts/e3e00518.html</id>
+    <published>2021-05-19T12:56:00.000Z</published>
+    <updated>2021-05-19T12:57:18.015Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、概述&quot;&gt;&lt;a href=&quot;#一、概述&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="博客篇" scheme="https://qingxi5.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/"/>
+    
+    
+      <category term="Hexo" scheme="https://qingxi5.github.io/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://qingxi5.github.io/tags/Github/"/>
+    
+      <category term="博客" scheme="https://qingxi5.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>web框架培训</title>
     <link href="https://qingxi5.github.io/posts/e3e00517.html"/>
     <id>https://qingxi5.github.io/posts/e3e00517.html</id>
     <published>2021-05-19T03:42:00.000Z</published>
-    <updated>2021-05-19T06:06:34.238Z</updated>
+    <updated>2021-05-19T06:49:39.997Z</updated>
     
     <summary type="html">
     
